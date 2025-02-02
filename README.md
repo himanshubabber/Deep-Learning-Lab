@@ -1,7 +1,7 @@
 # Deep-Learning-Lab
 Roll No 2K22/CO/207
 
-All Experiments that performed in Lab 
+All Experiments that are performed in Lab 
 
 EXP1: Handwritten digit classification using ann using numpy
 
