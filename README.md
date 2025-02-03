@@ -1,7 +1,7 @@
 # Deep-Learning-Lab
 
-HIMANSHU
-Roll No 2K22/CO/207
+ NAME : HIMANSHU
+ Roll No : 2K22/CO/207
 
 All Experiments that are performed in Lab 
 
